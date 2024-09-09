@@ -13,7 +13,6 @@ Hi!
 
 # Wir freuen uns
 lass
-#spaghettidok
-
+#spaghettidokumentation
 
 Änderungen aus feature1
