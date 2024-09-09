@@ -3,9 +3,4 @@
 enjoy conflicts :)
 enjoyed!!!
 
-Hi!
-
-
-# Nein!
-# Doch!
-# OH!
+Guten Morgen
