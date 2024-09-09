@@ -2,3 +2,13 @@
 https://github.com/brueskep-lebk/ITFO4-Test-Git.git
 enjoy conflicts :)
 HALLO, das ist neu
+enjoyed!!!
+
+Hi!
+
+
+# Nein!
+# Doch!
+# OH!
+
+# Wir freuen uns
