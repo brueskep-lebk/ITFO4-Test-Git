@@ -1,10 +1,12 @@
 # ITFO4-Test-Git
-https://github.com/brueskep-lebk/ITFO4-Test-Git.git
+
 enjoy conflicts :)
+enjoyed!!!
 
 Hi!
 
 
-# nicht löschen bitte
+# Nein!
 # Doch!
-# NEIN!
+# OH!
+habs geschafft :)
